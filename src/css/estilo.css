@@ -1,0 +1,63 @@
+body{
+    background-color: rgb(183, 66, 196);
+
+  
+}
+
+.receita{
+    margin-left: 100px;
+    margin-top: 200px;
+    color: #ffffff;
+    
+}
+
+
+.frango{
+    margin-left: 300px;
+}
+
+h1,
+h2,
+h3{
+    color: #000000
+}
+
+h3{
+    margin-top: 40px;
+}
+
+p{
+    color: #ffffff;
+}
+
+.ingredientes{
+    color: #ffffff;
+}
+
+.montagem{
+    margin-top: 100px;
+    margin-left: 400px;
+
+}
+
+.terceiro_passo{
+    margin-left: 300px;
+}
+
+.titulo{
+    color: #ffffff;
+    margin-left: 400px;
+ 
+}
+
+.p-titulo{
+    margin-left: 550px}
+
+.segundo_passo{
+    margin-top: 50px;
+}
+
+a{
+    color: #ffffff;
+    font-size: 15px;
+}
